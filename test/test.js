@@ -52,7 +52,7 @@ describe('Test Suite 1', function() {
 
 describe('Test Suite 2', function() {
     before(function() {
-        answer = 43;
+        answer = 45;
     });
 
     describe('Scenario 1', function() {
